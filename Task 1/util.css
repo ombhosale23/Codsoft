@@ -1,0 +1,69 @@
+.min-h-screen {
+    min-height: 100vh;
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex {
+    display: flex;
+
+}
+
+.items-center {
+    align-items: center;
+
+}
+
+.justify-between {
+    justify-content: space-between;
+}
+
+.justify-center {
+    justify-content: center;
+}
+
+.flexcol {
+    flex-direction: column;
+}
+
+.flexrow {
+    flex-direction: row;
+}
+.my-1 {
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
+.px-2 {
+    padding-left: 13px;
+    padding-right: 13px;
+}
+
+.text{
+    color: rgb(4 41 59);
+    text-align: center;
+}
+
+
+
+.btn{
+    margin: 0px 5px;
+    padding: 4px 12px;
+    border: 2px solid rgb(4 41 59);
+    font-weight: bolder;
+    color: rgb(4, 41, 60);
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.text-center{
+    text-align: center;
+}
